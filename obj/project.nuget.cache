@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fbTuTrkpdZ9JBYY6+T1gQ4QQRy2F1ypNLFEsM+Jdxf0GWv6VhYGFP0lLTkl0kEGGPnO8sB6QXYL15u/rGxjkOg==",
+  "dgSpecHash": "gkOt2oe7ncNMM9gdtM3MI10fwNIVq5UhJ0R2kWGWMtn4HnNKUMfopMeNhrnywqwooBu0enIK9Qk3kCCUAzJjWw==",
   "success": true,
-  "projectFilePath": "c:\\az204\\mvcdemo\\MVCDemoApp\\MVCDemoApp.csproj",
+  "projectFilePath": "C:\\az204\\mvcdemo\\MVCDemoApp\\MVCDemoApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

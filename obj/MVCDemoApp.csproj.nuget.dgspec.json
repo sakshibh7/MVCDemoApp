@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\az204\\mvcdemo\\MVCDemoApp\\MVCDemoApp.csproj": {}
+    "C:\\az204\\mvcdemo\\MVCDemoApp\\MVCDemoApp.csproj": {}
   },
   "projects": {
-    "c:\\az204\\mvcdemo\\MVCDemoApp\\MVCDemoApp.csproj": {
+    "C:\\az204\\mvcdemo\\MVCDemoApp\\MVCDemoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\az204\\mvcdemo\\MVCDemoApp\\MVCDemoApp.csproj",
+        "projectUniqueName": "C:\\az204\\mvcdemo\\MVCDemoApp\\MVCDemoApp.csproj",
         "projectName": "MVCDemoApp",
-        "projectPath": "c:\\az204\\mvcdemo\\MVCDemoApp\\MVCDemoApp.csproj",
+        "projectPath": "C:\\az204\\mvcdemo\\MVCDemoApp\\MVCDemoApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "c:\\az204\\mvcdemo\\MVCDemoApp\\obj\\",
+        "outputPath": "C:\\az204\\mvcdemo\\MVCDemoApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
